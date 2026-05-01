@@ -1,2 +1,2 @@
-# tyeep.github.io
+# github.io page
 Welcome! 
