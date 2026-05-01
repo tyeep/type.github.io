@@ -1,2 +1,2 @@
-# type.github.io
+# tyeep.github.io
 Welcome! 
